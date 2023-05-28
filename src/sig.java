@@ -3,9 +3,10 @@ public class sig {
         int number = 1;
         System.out.println(number);
         
-        int a = 1;
-        for(int i = 0; i < 10; i++) {
-            System.out.println(a);
+        int i = 1;
+        for(i = 0; i < 10; i++) {
+            System.out.println(i);
         }
+        System.out.println();
     }
 }
